@@ -1,4 +1,4 @@
-#WP-ToolSet
+#AMD_WP-Tool
 <img src=".\src\WP-ToolSet.png">
 <p>Basic tool to use in Termux, a cell phone terminal emulator</p>
 
@@ -20,8 +20,8 @@
     <li>pkg update && pkg upgrade</li>
      <li>pkg install node</li>
       <li>pkg install git</li>
-       <li>git clone https://github.com/ArslanMDofficial/WP-ToolSet</li>
-       <li>cd WP-ToolSet</li>
+       <li>git clone https://github.com/ArslanMDofficial/AMD_WP-Tool</li>
+       <li>cd AMD_WP-Tool</li>
        <li>bash install.sh</li>
        <li>npm start</li>
        
