@@ -9,7 +9,7 @@ const logo=function(){
   / /___/ _, _/ /_/ / /___/ /_/ / /_/ // // /___/ /___   1.2
   \____/_/ |_|\____/\____/\____/_____/___/_____/_____/
 
-  \u001b[31m ~by zack black 
+  \u001b[31m ~by Arslan-MD 
     \u001b[0m
     `
 }
@@ -40,7 +40,7 @@ let avisoc=aviso.replace('.','\n')
   ${avisoc}
   
   
-  ~by Zack
+  ~by Arslan-MD
        @_________________________@
   \u001b[0m
        `
