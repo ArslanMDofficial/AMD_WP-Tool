@@ -1,27 +1,27 @@
-# crocodile
-<img src=".\src\croco.png">
-<p>ferramenta basica para usar no termux, um emulador de terminal de celular.</p>
+#WP-ToolSet
+<img src=".\src\WP-ToolSet.png">
+<p>Basic tool to use in Termux, a cell phone terminal emulator</p>
 
-## ⚠️avisos⚠️
-<p>essa ferramenta foi criada apenas para <b>APRENDIZADO</b> não utilize para prejudicar pessoas, não me responsabilizo por uso indevido do código.</p>
+## ⚠️DISCLAIMER⚠️
+<This tool was created only for LEARNING, do not use it to harm people, I am not responsible for misuse of the code>
 
-### 🟢funções whatsapp:
+### 🟢whatsapp functions:
 <ul>
 
-<li>gerador de wa.me</li>
-<li>gerador de menu</li>
-<li>gerador de aviso</li>
-<li>desativar numeros do whatsapp</li>
+<li>wa.me generator</li>
+<li>menu generator</li>
+<li>warning generator</li>
+<li>deactivate whatsapp numbers</li>
 
 </ul>
 
-### comandos
+### coMmandS
 <ul list-style="none">
     <li>pkg update && pkg upgrade</li>
      <li>pkg install node</li>
       <li>pkg install git</li>
-       <li>git clone https://github.com/isaias-silva/crocodile</li>
-       <li>cd crocodile</li>
+       <li>git clone https://github.com/ArslanMDofficial/WP-ToolSet</li>
+       <li>cd WP-ToolSet</li>
        <li>bash install.sh</li>
        <li>npm start</li>
        
